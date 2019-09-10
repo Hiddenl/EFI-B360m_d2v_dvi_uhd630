@@ -25,8 +25,11 @@
 # 其他说明
 我引导盘里kext文件实际上有几个我是没删的掉，因为开机后显示在使用中，不能删除，我也懒得去PE或者Windows下删除这些文件了。
 ### 列出文件名字（如果使用存在问题，可以去放入这几个试试。）：
+    被我放到backup文件夹的：
     AHCI_3rdParty_eSATA.kext
     AHCI_3rdParty_SATA.kext
     AtherosE2200Ethernet.kext
     RealtekRTL8100.kext
+    被我放入废纸篓的：
+    FakeSMC_v1800_with_Sensors.kext
     别问我这是干嘛的，我也不知道，但是好像是没用的
