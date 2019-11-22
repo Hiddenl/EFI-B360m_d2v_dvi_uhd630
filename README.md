@@ -26,5 +26,5 @@
     如果开机鼠标键盘都无法使用，请删除: 
         EFI/CLOVER/ACPI/patched/SSDT-EC.aml;
         EFI/CLOVER/ACPI/patched/SSDT-UIAC.aml;
-        EFI/CLOVER/Other/USBPorts.kext;
+        EFI/CLOVER/kexts/Other/USBPorts.kext;
         然后再次开机后去定制USB驱动。
