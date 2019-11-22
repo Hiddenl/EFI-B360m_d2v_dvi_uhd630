@@ -22,4 +22,9 @@
     不保证一定能用，因为我也是新人，不会搞这些，全是在网上找文件后折腾半天，在自己电脑上是可以正常运行了。
     安装镜像是用的黑果小兵的。
     没有尝试麦克风是否可用，因为没有麦克风设备。
-    如果你的USB3.0或者2.0用不了，请自行定制USB3.0，因为有可能会端口不一样。得删除俩个DSDT文件和USBPort.kext。
+    如果你的USB3.0或者2.0用不了，请自行定制USB3.0，因为有可能会端口不一样。
+    如果开机鼠标键盘都无法使用，请删除: 
+        EFI/CLOVER/ACPI/patched/SSDT-EC.aml;
+        EFI/CLOVER/ACPI/patched/SSDT-UIAC.aml;
+        EFI/CLOVER/Other/USBPorts.kext;
+        然后再次开机后去定制USB驱动。
