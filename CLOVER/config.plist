@@ -81,7 +81,9 @@
 		<key>DefaultLoader</key>
 		<string>boot.efi</string>
 		<key>DefaultVolume</key>
-		<string>Mac OS</string>
+		<string>Macintosh HD</string>
+		<key>Legacy</key>
+		<string>PBR</string>
 		<key>NeverHibernate</key>
 		<true/>
 		<key>Timeout</key>
