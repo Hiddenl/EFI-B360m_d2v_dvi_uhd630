@@ -1,5 +1,5 @@
 # EFI-B360m_d2v_dvi_uhd630
-完美黑苹果EFI文件
+Clover引导工具 EFI 配置文件
 
 OC引导文件请看这里：[Open Core引导](https://github.com/Matchas-xiaobin/EFI-B360m_d2v_OpenCore_dvi_uhd630)
 
