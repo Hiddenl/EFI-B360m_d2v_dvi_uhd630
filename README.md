@@ -3,12 +3,15 @@ Clover引导工具 EFI 配置文件
 
 OC引导文件请看这里：[Open Core引导](https://github.com/Matchas-xiaobin/EFI-B360m_d2v_OpenCore_dvi_uhd630)
 
+```
 2019-11-30 更新缓冲帧信息，显存提高到2048M，已转战折腾OC引导了
 2019-11-29 更新删掉一些没用的东西，已转战折腾OC引导了
-Clover版本:  5070
 
+Clover版本:  5070
 ```
-机器配置:
+
+# 机器配置
+```
 处理器: i5-8400
 主板: 技嘉 B360m d2v
 内存: 16G
