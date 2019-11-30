@@ -14,13 +14,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					R0ZYMA==
-					</data>
+					<data>R0ZYMA==</data>
 					<key>Replace</key>
-					<data>
-					SUdQVQ==
-					</data>
+					<data>SUdQVQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -28,13 +24,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					RUhDMQ==
-					</data>
+					<data>RUhDMQ==</data>
 					<key>Replace</key>
-					<data>
-					RUgwMQ==
-					</data>
+					<data>RUgwMQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -42,13 +34,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					RUhDMg==
-					</data>
+					<data>RUhDMg==</data>
 					<key>Replace</key>
-					<data>
-					RUgwMg==
-					</data>
+					<data>RUgwMg==</data>
 				</dict>
 			</array>
 		</dict>
@@ -108,9 +96,7 @@
 				<key>Key</key>
 				<string>hda-gfx</string>
 				<key>Value</key>
-				<data>
-				b25ib2FyZC0xAA==
-				</data>
+				<data>b25ib2FyZC0xAA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -120,9 +106,7 @@
 				<key>Key</key>
 				<string>hda-gfx</string>
 				<key>Value</key>
-				<data>
-				b25ib2FyZC0xAA==
-				</data>
+				<data>b25ib2FyZC0xAA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -132,9 +116,7 @@
 				<key>Key</key>
 				<string>layout-id</string>
 				<key>Value</key>
-				<data>
-				AwAAAA==
-				</data>
+				<data>AwAAAA==</data>
 			</dict>
 			<dict>
 				<key>Device</key>
@@ -142,8 +124,7 @@
 				<key>Key</key>
 				<string>PinConfigurations</string>
 				<key>Value</key>
-				<data>
-				</data>
+				<data></data>
 			</dict>
 		</array>
 		<key>Audio</key>
@@ -158,65 +139,45 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>
-				BwCbPg==
-				</data>
+				<data>BwCbPg==</data>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,2,0</string>
+				<key>device-id</key>
+				<data>mz4AAA==</data>
+				<key>device_type</key>
+				<string>VGA compatible controller</string>
+				<key>enable-hdmi20</key>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con0-busid</key>
-				<data>
-				AgAAAA==
-				</data>
+				<data>AgAAAA==</data>
 				<key>framebuffer-con0-enable</key>
-				<data>
-				AQAAAA==
-				</data>
-				<key>framebuffer-con0-index</key>
-				<data>
-				AgAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con0-pipe</key>
-				<data>
-				EgAAAA==
-				</data>
+				<data>CAAAAA==</data>
 				<key>framebuffer-con0-type</key>
-				<data>
-				BAAAAA==
-				</data>
+				<data>EAAAAA==</data>
+				<key>framebuffer-con1-busid</key>
+				<data>AgAAAA==</data>
 				<key>framebuffer-con1-enable</key>
-				<data>
-				AQAAAA==
-				</data>
-				<key>framebuffer-con1-index</key>
-				<data>
-				AwAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con1-pipe</key>
-				<data>
-				EgAAAA==
-				</data>
+				<data>CQAAAA==</data>
+				<key>framebuffer-con1-type</key>
+				<data>AAgAAA==</data>
 				<key>framebuffer-con2-busid</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AAAAAA==</data>
 				<key>framebuffer-con2-enable</key>
-				<data>
-				AQAAAA==
-				</data>
-				<key>framebuffer-con2-index</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con2-pipe</key>
-				<data>
-				EgAAAA==
-				</data>
+				<data>CgAAAA==</data>
 				<key>framebuffer-con2-type</key>
-				<data>
-				BAAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-patch-enable</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>AAAAgA==</data>
+				<key>model</key>
+				<string>Intel UHD Graphics 630 (Desktop)</string>
 			</dict>
 		</dict>
 		<key>USB</key>
@@ -287,49 +248,37 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				AEFQUExFIFNTRAA=
-				</data>
+				<data>AEFQUExFIFNTRAA=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.iokit.IOAHCIBlockStorage</string>
 				<key>Replace</key>
-				<data>
-				AAAAAAAAAAAAAAA=
-				</data>
+				<data>AAAAAAAAAAAAAAA=</data>
 			</dict>
 			<dict>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				g/sPD4OPBAAA
-				</data>
+				<data>g/sPD4OPBAAA</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
-				<data>
-				g/sPkJCQkJCQ
-				</data>
+				<data>g/sPkJCQkJCQ</data>
 			</dict>
 			<dict>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AEFQUExFIFNTRAA=
-				</data>
+				<data>AEFQUExFIFNTRAA=</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.iokit.IOAHCIBlockStorage</string>
 				<key>Replace</key>
-				<data>
-				AAAAAAAAAAAAAAA=
-				</data>
+				<data>AAAAAAAAAAAAAAA=</data>
 			</dict>
 		</array>
 	</dict>
